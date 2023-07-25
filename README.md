@@ -34,7 +34,7 @@ pip install numpy pandas scikit-learn
 ## Usage
 Clone the repository:
 
-git clone https://github.com/your_username/house-price-prediction.git
+git clone https://github.com/YusufSemihGurkok/LinearRegression-for-House-Price-Prediction.git
 cd house-price-prediction
 
 Download the data files (train.csv and test.csv) and place them in the same directory as the code.
